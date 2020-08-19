@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/blog/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/blog/summersemester/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/blog/summersemester/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/blog/summersemester/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/blog/datajobs/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/blog/datajobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/blog/datajobs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/blog/introtoml/</loc>
+    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/blog/introtoml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/blog/introtoml/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/author/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ElieshaLai.github.io/tw/author/eliesha-lai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ElieshaLai.github.io/author/eliesha-lai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://ElieshaLai.github.io/tw/author/eliesha-lai/"
+                />
+  </url>
+  
+</urlset>

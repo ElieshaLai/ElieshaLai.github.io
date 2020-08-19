@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Hsiao-Hsuan(Eliesha) Lai</title>
+    <link>https://ElieshaLai.github.io/tw/author/</link>
+    <description>Recent content in Authors on Hsiao-Hsuan(Eliesha) Lai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>copyright &amp;copy; 2020 Eliesha Lai</copyright>
+    
+	<atom:link href="https://ElieshaLai.github.io/tw/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>賴曉萱</title>
+      <link>https://ElieshaLai.github.io/tw/author/eliesha-lai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ElieshaLai.github.io/tw/author/eliesha-lai/</guid>
+      <description>我是賴曉萱。 目前於德州大學奧斯汀分校就讀商業分析碩士。正在學習如何分析資料、建立預測模型和數據視覺化， 並且透過數據分析解決問題，以及發現數據背後的商業洞察。</description>
+    </item>
+    
+  </channel>
+</rss>
