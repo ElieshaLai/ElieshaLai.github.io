@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://ElieshaLai.github.io/tw/blog/summersemester/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ElieshaLai.github.io/blog/summersemester/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://ElieshaLai.github.io/tw/blog/summersemester/"
-                />
-  </url>
-  
-  <url>
     <loc>https://ElieshaLai.github.io/tw/blog/datajobs/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,16 +50,6 @@
   <url>
     <loc>https://ElieshaLai.github.io/tw/blog/introtoml/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ElieshaLai.github.io/blog/introtoml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tw"
-                href="https://ElieshaLai.github.io/tw/blog/introtoml/"
-                />
   </url>
   
   <url>
