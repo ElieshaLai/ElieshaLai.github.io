@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>copyright &amp;copy; 2020 Eliesha Lai</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ElieshaLai.github.io/tw/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>數據相關職位</title>
-      <link>https://ElieshaLai.github.io/tw/blog/datajobs/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ElieshaLai.github.io/tw/blog/datajobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>機器學習簡介</title>
-      <link>https://ElieshaLai.github.io/tw/blog/introtoml/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ElieshaLai.github.io/tw/blog/introtoml/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>賴曉萱</title>
