@@ -13,21 +13,18 @@
     
     
     <item>
-      <title>數據相關職位</title>
-      <link>https://ElieshaLai.github.io/tw/blog/datajobs/</link>
+      <title>MSBA夏季學期心得</title>
+      <link>https://ElieshaLai.github.io/tw/blog/summersemester/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ElieshaLai.github.io/tw/blog/datajobs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>機器學習簡介</title>
-      <link>https://ElieshaLai.github.io/tw/blog/introtoml/</link>
-      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ElieshaLai.github.io/tw/blog/introtoml/</guid>
-      <description></description>
+      <guid>https://ElieshaLai.github.io/tw/blog/summersemester/</guid>
+      <description>6月底才剛從台灣的大學畢業，緊接著7/13就迎來UT-Austin商業分析研究所夏季學期的開始。 想來分享一些夏季學期的課程內容，希望對你們有些幫助。由於Covid-19學校不完全開放，我們今年的夏季課程是全部線上，採用zoom遠端教學模式。但儘管如此，商學院的教職員仍然盡力確保我們的上課體驗不會因為疫情而受到影響，整體而言，我的仍然學習到很多。
+夏季學期只有兩堂必修課，由於星期一到四每天都有這兩門課，節奏其實蠻緊湊。就算是一個典型亞洲教育下的孩子，對於連續不斷的作業跟報告，仍感到十分驚訝。夏季學期的目的在於短時間內，將我們帶入數據分析的世界，初步了解一些概念和程式語言工具。
+ Predictive Modeling 這堂課使用的程式語言: R
+課堂人數: 100+
+我認為這堂課多少會碰觸些許數學公式，每個我們所使用的模型背後都可能涉及到統計概念。雖然這堂課真的需要如海綿般在短時間內吸收大量的新知識，但也很好的引導我們對預測模型有一個初步的認識。不只是要從數據中發掘有用的資訊，更能利用數據去做未來的預測，以協助公司做出商業決策。
+ 我們學到回歸模型、KNN模型和決策樹等等。使用這些models的重點在於什麼情況下使用哪種models最合適。在商業世界中，透過識別數據集的模式和趨勢，從而進行預測式決策中是其中可能需要使用到的一環。主要還是根據客戶需求，去決定應該如何使用數據協助對方。
+ 前半段的課，我們有一個小組作業跟一個個人作業(題目真的蠻多)；後半段則是有一個小組作業，將兩半段的成績相加平均起來，就是這堂課的成績。一開始的小組作業是隨機分組的，題目沒有限定，各組自由發揮。我們小組的題目是在第一次zoom會議後定下來的。最後選擇使用一組汽車的數據，因為這組數據沒有任何缺失，且已經經過初步整理。我們將6人小組分為兩個小小組，分別使用不同的模型去預測汽車一加侖可以跑的距離，再一起比較哪個模型比較準確且合適。我一開始對一些概念非常不熟悉，透過這個課程跟作業，慢慢從中學習。不懂的知識，就是我在這裡的原因，不斷的進步跟挑戰自己。</description>
     </item>
     
   </channel>
